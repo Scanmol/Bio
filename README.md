@@ -1,4 +1,3 @@
-# Bio
 # 👋 ¡Hola! Soy Sergio
 
 Soy estudiante de **2º de Sistemas Microinformáticos y Redes (SMR)**, tengo **20 años** y me apasiona el mundo de la tecnología.  
